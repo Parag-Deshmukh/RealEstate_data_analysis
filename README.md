@@ -64,13 +64,7 @@ The project aims to answer several questions using the transformed data, which i
 
 The Real Estate Data Analysis project utilizes Snowflake, Python, Google Sheets, and Brightdata to gather, transform, and analyze real estate data from the Otodom website. The workflow involves data collection, transformation, and analysis, leading to insights into the Polish real estate market.
 
-## Data Sets
 
-The data sets for this project are provided in three parts within this repository. You can find them in the following locations:
-
-1. [Dataset Part 1](Sample_ORG_Dataset_Part1): Description of Part 1 data.
-2. [Dataset Part 2](Sample_ORG_Dataset_Part2): Description of Part 2 data.
-3. [Dataset Part 3](Sample_ORG_Dataset_Part3): Description of Part 3 data.
 
 
 
